@@ -1,0 +1,11 @@
+Protein Powder,33.95,10,119.99
+Xbox One,350.99,10,999.95
+Baseball Bat,1.99
+James Bond Statue,389.99
+Love Note,49.99
+Dozen Roses,49.99
+Best Selling Book,3.99
+Computer Mouse,9.99
+Basket Weaving Kit,19.99
+Staples Button,0.99,10,5.99
+Yellow Fever documentary,0.99,20,8.95
